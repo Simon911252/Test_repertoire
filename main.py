@@ -10,3 +10,5 @@ for i in range(5):
     b += 'BEN'
 
 print(b)
+
+print('a')
